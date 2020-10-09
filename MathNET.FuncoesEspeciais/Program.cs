@@ -57,9 +57,9 @@ namespace MathNET.FuncoesEspeciais
             Console.WriteLine("1. Calcular o Coeficiente Binomial entre os números n e p");
             while (true)
             {
-                Console.WriteLine("Informe o número n entre 1 a 100 ( 999 -> Sai )");
+                Console.WriteLine("Informe o número n entre 1 a 200 ( 999 -> Sai )");
                 string numero1 = Console.ReadLine();
-                Console.WriteLine("Informe o número p entre 1 a 100 ( 999 -> Sai )");
+                Console.WriteLine("Informe o número p entre 1 a 200 ( 999 -> Sai )");
                 string numero2 = Console.ReadLine();
                 int n;
                 int p;
